@@ -20,3 +20,5 @@ and
   
 For dashboard works:
 - import grafana/dashboard.json to your grafana installation
+
+![preview](https://github.com/isaitgirl/covid19/blob/master/grafana/dashboard.png)
